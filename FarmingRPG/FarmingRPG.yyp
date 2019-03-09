@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "a4ba3bc1-d10c-472a-8cc0-bdc690988c28",
+            "Value": {
+                "id": "7b7f2311-a68e-4ef3-971c-492890e8c583",
+                "resourcePath": "objects\\obj_silvio\\obj_silvio.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9b233c4-1f7c-4c06-92bc-e7fd8a8b3a2c",
             "Value": {
                 "id": "7a383def-046b-488a-9101-d1a6e893cd8d",
@@ -444,6 +452,14 @@
                 "id": "8a481be7-7311-4757-ad7a-25aaecf8384d",
                 "resourcePath": "sprites\\spr_male_legs_pants_green\\spr_male_legs_pants_green.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d11ca919-213c-4149-a70b-9627f583642d",
+            "Value": {
+                "id": "84b9f29a-6a8a-4f11-a602-0227ca18f2d2",
+                "resourcePath": "objects\\obj_hulio\\obj_hulio.yy",
+                "resourceType": "GMObject"
             }
         },
         {
