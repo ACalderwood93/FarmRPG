@@ -1,0 +1,510 @@
+{
+    "id": "e1ad4e43-37b1-4a8b-bd9a-fd0c9f22e371",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "43e2deb9-1337-484c-b0a9-7c3eb18e4ec0",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "e2d997fd-7444-466d-8c7f-b9364c102ee3",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "01422e8c-576d-4984-a738-5a00790518fc",
+            "Value": {
+                "id": "1386fa25-5b62-4886-aa6b-0ce75afc22fe",
+                "resourcePath": "sprites\\spr_base_male_5\\spr_base_male_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0f58a90d-cfba-483f-8976-8b586f819ee8",
+            "Value": {
+                "id": "2e8322c5-2c2c-4e24-8424-0f6d9fd55c30",
+                "resourcePath": "views\\0f58a90d-cfba-483f-8976-8b586f819ee8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "11525f5f-918b-4fd8-8a5d-25a92ded4085",
+            "Value": {
+                "id": "dd442ec2-85e1-426e-8b32-b880385a565b",
+                "resourcePath": "views\\11525f5f-918b-4fd8-8a5d-25a92ded4085.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1210b0c5-e365-4975-aba9-c57d99a24c82",
+            "Value": {
+                "id": "d6cc473e-0fee-4a03-b5f4-2af6959748c4",
+                "resourcePath": "views\\1210b0c5-e365-4975-aba9-c57d99a24c82.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "15d580e2-8b2d-4434-bd41-1ffe70cbb022",
+            "Value": {
+                "id": "e33ef733-fecf-46d0-be01-083839c1e681",
+                "resourcePath": "sprites\\sprOrc\\sprOrc.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1792e77e-58e1-4545-830b-9a5929f35fe4",
+            "Value": {
+                "id": "735b8a6a-8aa5-464a-8b94-c01558ee6337",
+                "resourcePath": "sprites\\spr_base_female_1\\spr_base_female_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1a132ba8-1f67-411f-a7f5-02999988f609",
+            "Value": {
+                "id": "5edd00c0-3084-44c0-a1b7-93357f58102c",
+                "resourcePath": "views\\1a132ba8-1f67-411f-a7f5-02999988f609.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "21765682-bcc9-4896-b1cc-65acfd94b041",
+            "Value": {
+                "id": "9fd8c1c5-1970-4683-8097-ec60188664b9",
+                "resourcePath": "sprites\\spr_female_torso_sleeveless_white\\spr_female_torso_sleeveless_white.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "22c6c211-ac41-4577-8a5a-6b5d17f69b47",
+            "Value": {
+                "id": "d8490de5-c9ae-41f3-8e37-7bf781d990bf",
+                "resourcePath": "sprites\\spr_base_female_2\\spr_base_female_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d35a446-568e-44d9-9dca-45d3f8043456",
+            "Value": {
+                "id": "e7679229-7c9d-4b9b-b597-47f8efe9aa93",
+                "resourcePath": "sprites\\spr_male_feet_shoes_black\\spr_male_feet_shoes_black.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3228ab40-f3dd-46d3-87d9-f7714cbd95d8",
+            "Value": {
+                "id": "ed315ff1-1b4a-4c36-a4eb-6009a46ecc39",
+                "resourcePath": "views\\3228ab40-f3dd-46d3-87d9-f7714cbd95d8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "336309e0-6885-4342-9b70-02d8957eca2a",
+            "Value": {
+                "id": "095e41d8-a175-466e-ab88-5e3f0a269882",
+                "resourcePath": "objects\\objCollision\\objCollision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36a35fd2-fa07-405e-8504-7b5c043185d4",
+            "Value": {
+                "id": "600e0c85-1bb4-4c4a-9dd5-36c94f34a88e",
+                "resourcePath": "views\\36a35fd2-fa07-405e-8504-7b5c043185d4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47bc9a9b-2653-40b4-a170-500401f21b96",
+            "Value": {
+                "id": "43cd8f07-0c4e-4b8b-abf1-01810c86fdc3",
+                "resourcePath": "views\\47bc9a9b-2653-40b4-a170-500401f21b96.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "48adba64-66c9-4e41-a7ae-e42fa529bd82",
+            "Value": {
+                "id": "68bdf990-f720-46ec-b7a3-311fe898e106",
+                "resourcePath": "views\\48adba64-66c9-4e41-a7ae-e42fa529bd82.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "506d2bc9-d200-4e2c-8007-89baf7238abd",
+            "Value": {
+                "id": "c77ddee3-ec58-453d-8578-892b755d883e",
+                "resourcePath": "views\\506d2bc9-d200-4e2c-8007-89baf7238abd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5101e87c-2cca-4316-9eff-a808b1ea45cf",
+            "Value": {
+                "id": "05b0646f-7e9d-41c8-a169-a9ddf589d859",
+                "resourcePath": "sprites\\sprCollision\\sprCollision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "56fde6fb-0607-452a-9f86-50c44c48eecf",
+            "Value": {
+                "id": "1d3c626f-3d33-4ead-b137-4d58c3fa8bcb",
+                "resourcePath": "sprites\\spr_base_female_4\\spr_base_female_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "58c53bf5-13bc-4afa-818e-cc32739635e2",
+            "Value": {
+                "id": "bd21f53b-e401-4860-8adc-869a98098a1d",
+                "resourcePath": "rooms\\rm0\\rm0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "68d4546f-838c-412d-8173-d8b5847b16db",
+            "Value": {
+                "id": "a313ed4f-2ec6-4aec-8a26-764c7e607aa1",
+                "resourcePath": "views\\68d4546f-838c-412d-8173-d8b5847b16db.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e07406c-81bf-44f3-ba83-7d05cda109ab",
+            "Value": {
+                "id": "0b715678-ebb6-40f6-a7cc-013c889dae7c",
+                "resourcePath": "sprites\\spr_male_hair_bedhead_pink\\spr_male_hair_bedhead_pink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f8ec88c-18bd-455e-a606-1d55dead97a3",
+            "Value": {
+                "id": "2fccf414-29bf-4a79-8167-068899839eb4",
+                "resourcePath": "views\\6f8ec88c-18bd-455e-a606-1d55dead97a3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "71f8b22a-4896-44d3-af35-b36b6202fe30",
+            "Value": {
+                "id": "28dd9015-2930-46a5-921b-baef7399c7e6",
+                "resourcePath": "sprites\\spr_charcter_mask\\spr_charcter_mask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b44b705-fb90-45b3-ab6b-81ef3a5bb2a9",
+            "Value": {
+                "id": "58c14e7e-18f4-43d8-b720-b906e307f3da",
+                "resourcePath": "sprites\\spr_female_feet_longboots_brown\\spr_female_feet_longboots_brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7bbfe468-1549-4e21-9ed0-49755db6b20d",
+            "Value": {
+                "id": "1a90240b-9738-448e-93e1-8da20cc418dd",
+                "resourcePath": "sprites\\sprPlayer\\sprPlayer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "815bbd11-0a97-41f6-8ca3-d0ea71ea3e47",
+            "Value": {
+                "id": "18a2f80e-636a-4e6a-8985-4381d6b11635",
+                "resourcePath": "views\\815bbd11-0a97-41f6-8ca3-d0ea71ea3e47.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "83aed3b4-a099-44aa-ad55-6bca5b02d717",
+            "Value": {
+                "id": "a349c276-1ee3-4b66-b473-6706a15dc54c",
+                "resourcePath": "sprites\\sprFarmer\\sprFarmer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87d4794a-41f3-4d09-9b84-0bfa23f091f4",
+            "Value": {
+                "id": "c89ceaa1-47c4-4c01-aaf0-42039588a5fb",
+                "resourcePath": "views\\87d4794a-41f3-4d09-9b84-0bfa23f091f4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87e34a70-2472-4e05-8e8e-ed3b4dd91af9",
+            "Value": {
+                "id": "46c70c87-6299-442e-abe3-830a3962ad14",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "894d24ee-2455-46d0-ba7c-313a3f400d9f",
+            "Value": {
+                "id": "061e43f8-07d7-445b-aff4-87e74f40de01",
+                "resourcePath": "sprites\\spr_female_torso_sleeveless_red\\spr_female_torso_sleeveless_red.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8efa155b-5724-4550-9e75-3d6887b7bdf5",
+            "Value": {
+                "id": "3c12046c-5332-4111-9e4a-1865dfcfffc0",
+                "resourcePath": "views\\8efa155b-5724-4550-9e75-3d6887b7bdf5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9091b9a5-a1db-4379-8bf8-dfb4a0d76bdb",
+            "Value": {
+                "id": "8f9f0bb2-a125-446a-a0ee-7e42661e71d7",
+                "resourcePath": "sprites\\spr_male_legs_pants_teal\\spr_male_legs_pants_teal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "920029ba-97f1-4824-bde1-ad864effe924",
+            "Value": {
+                "id": "5de2f13b-4135-4f7c-8f26-d87427fc21c3",
+                "resourcePath": "views\\920029ba-97f1-4824-bde1-ad864effe924.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "95113892-e0e1-41e1-b4ac-ddad35356b0d",
+            "Value": {
+                "id": "b18ef3eb-ba7d-418b-9939-dcfaca64a98e",
+                "resourcePath": "sprites\\spr_base_male_4\\spr_base_male_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9d5b2340-de27-4c0c-b948-a4ac6c6dcc2f",
+            "Value": {
+                "id": "430a5c69-e29e-4f87-9e05-ee0f0fd8718d",
+                "resourcePath": "sprites\\spr_female_hair_pixie_blonde\\spr_female_hair_pixie_blonde.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9ef0db5e-73e6-41c3-9e07-1de430528170",
+            "Value": {
+                "id": "7df1ffaa-aed1-4936-8d4c-498ef707a232",
+                "resourcePath": "sprites\\spr_female_legs_pants_teal\\spr_female_legs_pants_teal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9fee0911-22c4-47a9-ad40-f3ed2a20041f",
+            "Value": {
+                "id": "aa5a6cc6-8143-43c6-8c76-179e19b8b53c",
+                "resourcePath": "views\\9fee0911-22c4-47a9-ad40-f3ed2a20041f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2025654-0cf7-496b-a9db-cf3d02a9847f",
+            "Value": {
+                "id": "2c7dac9f-3816-44c1-bd42-63c4d8f9a035",
+                "resourcePath": "views\\a2025654-0cf7-496b-a9db-cf3d02a9847f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2fc199b-a50f-4757-b028-55769cee29d7",
+            "Value": {
+                "id": "d0b0b58f-ebf8-4ff5-8f61-ec2e09705c3e",
+                "resourcePath": "views\\a2fc199b-a50f-4757-b028-55769cee29d7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9b233c4-1f7c-4c06-92bc-e7fd8a8b3a2c",
+            "Value": {
+                "id": "7a383def-046b-488a-9101-d1a6e893cd8d",
+                "resourcePath": "views\\a9b233c4-1f7c-4c06-92bc-e7fd8a8b3a2c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "abf2fd19-eac8-4a16-8611-e970950aa95c",
+            "Value": {
+                "id": "0bcf6f68-a1e2-4cbf-afb1-703f57672a75",
+                "resourcePath": "views\\abf2fd19-eac8-4a16-8611-e970950aa95c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ad154a2e-2367-4008-8457-5570b5a00ab3",
+            "Value": {
+                "id": "7cb462d6-3a48-4b2d-abb8-7431f3648b4a",
+                "resourcePath": "sprites\\spr_base_female_3\\spr_base_female_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0d0182c-5ffd-4d8d-9228-14c429060e60",
+            "Value": {
+                "id": "6841ef0c-c275-4e54-8d34-7b9d7d5e3c15",
+                "resourcePath": "sprites\\spr_male_torso_top_brown\\spr_male_torso_top_brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0d98fbb-8506-4656-bd3a-a22aaaf72794",
+            "Value": {
+                "id": "6cf274b7-cf94-40c0-b4b3-e9ce2d9edb30",
+                "resourcePath": "sprites\\spr_base_male_1\\spr_base_male_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b5a2f60a-9968-4eb0-a5f0-62b0068b6387",
+            "Value": {
+                "id": "bfa43454-32db-4b95-8330-b8ab23466076",
+                "resourcePath": "sprites\\spr_base_male_2\\spr_base_male_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b71c07cc-286f-4d74-858b-09da296358f1",
+            "Value": {
+                "id": "1b4b88e0-6c69-4f2f-888c-f4870239c0e6",
+                "resourcePath": "sprites\\spr_female_hair_ponytail_raven\\spr_female_hair_ponytail_raven.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b7d51690-7119-4f97-837a-db7a6c06b47e",
+            "Value": {
+                "id": "7af4684b-5da9-4459-a316-80d2cc21e6d5",
+                "resourcePath": "sprites\\spr_male_feet_shoes_brown\\spr_male_feet_shoes_brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bcbac56d-247c-4193-af44-174dc7488ae1",
+            "Value": {
+                "id": "9d7d4db3-48d3-49bb-be44-61060a1c2100",
+                "resourcePath": "views\\bcbac56d-247c-4193-af44-174dc7488ae1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c395870e-c281-4647-b5a0-98e4b393d177",
+            "Value": {
+                "id": "783568bb-7a03-4d6d-91c3-91218e4cde99",
+                "resourcePath": "sprites\\spr_female_legs_pants_magenta\\spr_female_legs_pants_magenta.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c5ce3e86-2fd6-4da5-b00b-3290688c5089",
+            "Value": {
+                "id": "37d25a7f-483a-42ac-b309-52b01cbf32b1",
+                "resourcePath": "sprites\\spr_base_female_5\\spr_base_female_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "d4632ae9-1638-4ad5-a595-9ee9286a639d",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd4a5a8a-6ad5-455a-b408-441f8ac35562",
+            "Value": {
+                "id": "8a481be7-7311-4757-ad7a-25aaecf8384d",
+                "resourcePath": "sprites\\spr_male_legs_pants_green\\spr_male_legs_pants_green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d63b479f-137f-481c-9ff4-c34613e92e68",
+            "Value": {
+                "id": "a5263447-9d97-4aec-ac8d-3f7e53897a60",
+                "resourcePath": "sprites\\spr_male_torso_shirt_white\\spr_male_torso_shirt_white.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d76cf1ed-2fc6-4bcd-951d-c74c049a82e3",
+            "Value": {
+                "id": "0b492e70-d56a-45e5-98a3-c4bcf0b3c0db",
+                "resourcePath": "sprites\\spr_base_male_3\\spr_base_male_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d9fa5882-27e2-4c19-a736-25bfcf1ab9a5",
+            "Value": {
+                "id": "e0c312af-4847-404a-8734-77ae8cd027e3",
+                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "de6b61cf-647e-47f1-b232-bfbf9efdc8fa",
+            "Value": {
+                "id": "7045096e-36ec-41c6-8221-124eb3aa951c",
+                "resourcePath": "sprites\\spr_female_feet_boots_black\\spr_female_feet_boots_black.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e0c19903-0506-4a38-ba94-445135eae626",
+            "Value": {
+                "id": "723c8370-1d6b-4730-87a8-efb776cd2a94",
+                "resourcePath": "views\\e0c19903-0506-4a38-ba94-445135eae626.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e751c58c-819b-451d-9adb-2cc0ef936072",
+            "Value": {
+                "id": "27f261df-de8c-4030-93a4-a4cdeb5773a9",
+                "resourcePath": "views\\e751c58c-819b-451d-9adb-2cc0ef936072.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ec74caa3-11ad-462a-907e-2b26be626bde",
+            "Value": {
+                "id": "4ea67d78-937f-4d51-b81e-aca301fed08d",
+                "resourcePath": "sprites\\spr_male_hair_messy_raven\\spr_male_hair_messy_raven.yy",
+                "resourceType": "GMSprite"
+            }
+        }
+    ],
+    "script_order": [
+        
+    ],
+    "tutorial": ""
+}
