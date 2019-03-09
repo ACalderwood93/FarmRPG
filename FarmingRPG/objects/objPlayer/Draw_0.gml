@@ -17,6 +17,13 @@ else {
 x_frame = 0;	
 }
 
+
+if(x_frame + (anim_speed/60) < anim_length){
+	x_frame += anim_speed/60;
+}
+else{
+x_frame = 1;	
+}
 //draw character base
 draw_sprite_part(spr_base,0,floor(x_frame) * frame_size,y_frame * frame_size,frame_size,frame_size,xx,yy);
 
@@ -33,12 +40,7 @@ draw_sprite_part(spr_hair,0,floor(x_frame) * frame_size,y_frame * frame_size,fra
 //Increment frame
 
 
-if(x_frame < anim_length -1 ){
-	x_frame += anim_speed/60;
-}
-else{
-x_frame = 1;	
-}
+
 
 
 //draw_rectangle_color(bbox_left,bbox_top,bbox_right,bbox_bottom,c_yellow,c_yellow,c_yellow,c_yellow,true);
