@@ -5,11 +5,11 @@
     "name": "tile_terrain",
     "auto_tile_sets": [
         {
-            "id": "a2bc0046-5476-4c84-bc84-ef12f2827d5a",
+            "id": "57d0f57f-a8cd-47e5-a137-7c07d12d958a",
             "modelName": "GMAutoTileSet",
             "mvc": "1.0",
             "closed_edge": false,
-            "name": "autotile_1",
+            "name": "at_grass",
             "tiles": [
                 118,
                 55,
@@ -19,13 +19,38 @@
                 117,
                 21,
                 85,
-                21,
+                87,
                 53,
                 119,
                 87,
                 150,
                 149,
                 151,
+                0
+            ]
+        },
+        {
+            "id": "746cda0b-48a9-41eb-b3c2-07f55d856566",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "at_dirt",
+            "tiles": [
+                115,
+                52,
+                51,
+                83,
+                20,
+                114,
+                18,
+                82,
+                19,
+                18,
+                116,
+                84,
+                147,
+                146,
+                148,
                 0
             ]
         }
